@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gavinforest.github.io/sitemap.xml
+Sitemap: https://gavinrees.com/sitemap.xml
