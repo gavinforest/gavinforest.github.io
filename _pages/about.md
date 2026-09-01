@@ -29,10 +29,11 @@ latest_posts:
 
 I'm a PhD student in the Faculty of Computing & Data Sciences at Boston University. My research focuses on social behavior and combines approaches from theoretical biology, statistics, and evolutionary
 theory to understand ecological and evolutionary dynamics of intertwined biological systems. My primary focus is on biological
-complexity, and I’ve worked in evolution of cooperation in many-player social dilemmas, as well as inferring social dy-
-namics in political bodies. Methodologically, I’m interested in stochastic processes, Bayesian modeling, combinatorics,
+complexity, and I’ve worked in evolution of cooperation in many-player social dilemmas, as well as inferring social dynamics in political bodies. Methodologically, I’m interested in stochastic processes, Bayesian modeling, combinatorics,
 and evolutionary models.
 
-I received my A.B in Mathematics, secondary in CS, from Harvard College in 2021. Afterwords, I worked as a software engineer at a 3D printing company, and as a research assistant in Vienna, Austria, working in evolutionary game theory as well as social models of political voting.
+I received my A.B in Mathematics, secondary in CS, from Harvard College in 2021. Afterwords, I worked as a software engineer at a 3D printing company, and as a research assistant in Vienna, Austria, working in evolutionary game theory as well as social models of political voting. 
+
+I grew up in Bucks County, Pennsylvannia, by the Delaware river.
 
 [firstname]tr[at]bu.edu
