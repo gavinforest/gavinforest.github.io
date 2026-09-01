@@ -34,3 +34,5 @@ namics in political bodies. Methodologically, I’m interested in stochastic pro
 and evolutionary models.
 
 I received my A.B in Mathematics, secondary in CS, from Harvard College in 2021. Afterwords, I worked as a software engineer at a 3D printing company, and as a research assistant in Vienna, Austria, working in evolutionary game theory as well as social models of political voting.
+
+[firstname]tr[at]bu.edu
